@@ -7,7 +7,7 @@
         <a href="#">sign up now</a>
         <a href="#">more info</a>
       </template>
-      <h1>NInja Giveaway!</h1>
+      <h1>Ninja Giveaway!</h1>
       <p>Grab your ninja swag for half price!</p>
     </Modal>
   </teleport>
